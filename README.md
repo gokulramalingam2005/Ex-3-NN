@@ -1,5 +1,5 @@
-# NAME: Aaliya Fathima.M
-# REGISTER NO:212223230001
+# NAME: GOKUL R
+# REGISTER NO:212222230039
 # EX. NO.3
 # DATE:
 ## aligh = center> Implementation of MLP for a non-linearly separable data
